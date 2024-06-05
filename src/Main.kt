@@ -4,7 +4,7 @@ import kotlin.math.pow
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 //1
-    /*println("Введите число в десятичной системе:")
+    println("Введите число в десятичной системе:")
     var input = readln().toInt()
     val stringArray: ArrayList<String> = arrayListOf("")
 
@@ -29,7 +29,7 @@ fun main() {
         count++
     }
     println("Число $input1 в десятичной системе равно $number")
-    println("---------------------------------------------------------")*/
+    println("---------------------------------------------------------")
 //3
     val pal = Palindrom()
     val text = Text(pal)
